@@ -16,7 +16,7 @@ Although it is called “Django authentication”, the Django authentication sys
 <P>A configurable password hashing system </P>
 <P>Forms and view tools for logging in users, or restricting content </P>
 <P>A pluggable backend system </P>
-<P>The authentication system in Django aims to be very generic and doesn’t provide some features commonly found in web authentication systems. Solutions for some of these common problems have been implemented in third-party packages: </P>
+<h3>The authentication system in Django aims to be very generic and doesn’t provide some features commonly found in web authentication systems. Solutions for some of these common problems have been implemented in third-party packages: </h3>
 
 <P>Password strength checking </P>
 <P>Throttling of login attempts </P>
