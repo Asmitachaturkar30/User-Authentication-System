@@ -18,7 +18,7 @@ Although it is called “Django authentication”, the Django authentication sys
 <P>A pluggable backend system </P>
 <b>The authentication system in Django aims to be very generic and doesn’t provide some features commonly found in web authentication systems. Solutions for some of these common problems have been implemented in third-party packages: </b>
 
-<P>Password strength checking </P>
-<P>Throttling of login attempts </P>
-<P>Authentication against third-parties (OAuth, for example) </P>
-<P>Object-level permissions </P>
+<P>1. Password strength checking </P>
+<P>2. Throttling of login attempts </P>
+<P>3. Authentication against third-parties (OAuth, for example) </P>
+<P>4. Object-level permissions </P>
