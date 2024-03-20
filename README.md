@@ -22,3 +22,12 @@ Although it is called “Django authentication”, the Django authentication sys
 <P>2. Throttling of login attempts </P>
 <P>3. Authentication against third-parties (OAuth, for example) </P>
 <P>4. Object-level permissions </P>
+
+### Screenshots:
+
+<div>
+  <img src="Screenshot/1.png" width="700" hspace="50">
+  <img src="Screenshot/2.png" width="700" hspace="50">
+  <img src="Screenshot/3.png" width="700" hspace="50">
+  <img src="Screenshot/4.png" width="700" hspace="50">
+</div>
